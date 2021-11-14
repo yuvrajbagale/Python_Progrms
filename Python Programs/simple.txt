@@ -1,0 +1,6 @@
+Lists are mutable objects which means that we can change values inside a list append or delete values of the list.
+So if a hash function is generated from a list, 
+and then the items of, 
+the lists changed the dictionary will generate a new hash value for, 
+this list,
+and could not find it.
